@@ -1,4 +1,4 @@
-# 🌟 Modern E-Commerce Flutter App — Phase 1
+# 🌟  E-Commerce Flutter App
 
 [![License](https://img.shields.io/badge/license-MIT-007ec6.svg)](./LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-%5E3.0-blue?logo=flutter)](https://flutter.dev)
