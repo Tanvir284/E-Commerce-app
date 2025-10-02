@@ -5,9 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/Tanvir284/E-Commerce-app)](https://github.com/Tanvir284/E-Commerce-app/issues)
 [![Open in Gitpod](https://img.shields.io/badge/Open%20in-Gitpod-04BE2A?logo=gitpod)](https://gitpod.io/#https://github.com/Tanvir284/E-Commerce-app)
 
-A polished, interactive, and visually friendly README for the Phase 1 e-commerce Flutter app. This README highlights features, quick start steps, and an easy way to try the project instantly via Gitpod for an interactive environment.
 
-----
 
 Table of contents
 - Features
